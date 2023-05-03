@@ -1,1 +1,1 @@
-console.log("hello");
+jab tak he jami jab tak he asamag
