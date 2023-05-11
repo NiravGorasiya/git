@@ -1,0 +1,1 @@
+console.log("curd operation typescipt node js");
